@@ -14,3 +14,6 @@ Os dois arquivos comprimidos devem ser colocados dentro da pasta Pylaxian.
 Para executar basta abrir o terminal dentro da pasta Pylaxian e digitar:
 
 ### ./mainPylaxian
+
+![menu](https://user-images.githubusercontent.com/29669242/27617712-5fdd3c4a-5b8e-11e7-9702-27d7ca028bca.png)
+
