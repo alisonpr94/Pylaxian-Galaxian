@@ -15,5 +15,13 @@ Para executar basta abrir o terminal dentro da pasta Pylaxian e digitar:
 
 ### ./mainPylaxian
 
+
+# Menu principal
+
 ![menu](https://user-images.githubusercontent.com/29669242/27617712-5fdd3c4a-5b8e-11e7-9702-27d7ca028bca.png)
+
+
+# Jogo
+
+![jogo](https://user-images.githubusercontent.com/29669242/27617800-e91ac7b6-5b8e-11e7-8526-7536fe70c1bd.png)
 
